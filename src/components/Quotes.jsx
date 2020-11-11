@@ -43,3 +43,5 @@ const Quotes = () => {
 }
 
 export default Quotes;
+
+// https://friends-quotes-api.herokuapp.com/
